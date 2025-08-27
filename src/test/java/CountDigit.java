@@ -6,6 +6,7 @@ public class CountDigit {
           a=a/10;
           countDigit++;
         }
+
         System.out.println(countDigit);
     }
 }
